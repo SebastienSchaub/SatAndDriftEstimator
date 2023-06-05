@@ -7,9 +7,11 @@ Estimate Saturation and Correct Z Drift for visualization
 
 It uses great tools :
 - Bioformats from OME (Open Microscopy Environnement)
- http://www.openmicroscopy.org/bio-formats/
+
+  http://www.openmicroscopy.org/bio-formats/
 - inpaint_nans  from John D'Errico
- https://fr.mathworks.com/matlabcentral/fileexchange/4551-inpaint_nans?s_tid=srchtitle
+
+  https://fr.mathworks.com/matlabcentral/fileexchange/4551-inpaint_nans?s_tid=srchtitle
  
 ## How to use
 
